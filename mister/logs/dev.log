@@ -763,3 +763,6 @@ django.template.base.TemplateSyntaxError: Could not parse the remainder: '‘main’
 [2016-11-03 03:02:53] WARNING [py.warnings.__init__:260] C:\Users\fndui\AppData\Local\Programs\Python\Python35-32\lib\site-packages\django\core\management\base.py:260: RemovedInDjango19Warning: "requires_model_validation" is deprecated in favor of "requires_system_checks".
   RemovedInDjango19Warning)
 
+[2016-11-03 03:21:19] WARNING [py.warnings.<module>:9] C:\Program Files (x86)\JetBrains\PyCharm 2016.2.3\helpers\pydev\_pydev_bundle\pydev_import_hook.py:21: RemovedInDjango19Warning: The utilities in django.db.models.loading are deprecated in favor of the new application loading system.
+  module = self._system_import(name, *args, **kwargs)
+
